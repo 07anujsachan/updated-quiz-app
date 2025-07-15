@@ -75,4 +75,5 @@ npm run dev
 
 
 ## 🧑‍💻 Author
-- Ansh Sachan
+- Anuj Sachan
+
